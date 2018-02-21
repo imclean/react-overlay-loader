@@ -3,8 +3,10 @@ import * as React from "react";
 const styles = {
   text: {
     marginTop: 52,
-    color: "#888",
-    marginLeft: 6
+    color: "#FFFFFF",
+    marginLeft: 6,
+    fontFamily:'Nunito',
+    fontSize:'22'
   },
   spinner: {
     backgroundColor: "rgba(10,10, 10, 0.5)",
