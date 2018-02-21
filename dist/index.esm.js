@@ -9,7 +9,7 @@ var styles = {
     marginLeft: 6
   },
   spinner: {
-    backgroundColor: "rgba(255, 255, 255, 0.5)",
+    backgroundColor: "rgba(10, 10, 10, 0.5)",
     width: "100%",
     height: "100%",
     top: 0,
