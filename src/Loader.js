@@ -5,7 +5,6 @@ const styles = {
     marginTop: 52,
     color: "#FFFFFF",
     marginLeft: 6,
-    fontFamily:'Nunito',
     fontSize:'22'
   },
   spinner: {

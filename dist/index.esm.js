@@ -7,7 +7,6 @@ var styles = {
     marginTop: 52,
     color: "#888",
     marginLeft: 6,
-    fontFamily:'Nunito',
     fontSize:'22'
   },
   spinner: {
