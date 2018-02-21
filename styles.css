@@ -15,7 +15,7 @@
   margin-top: -30px;
   margin-left: -20px;
   border-radius: 50%;
-  border: 3px solid #eee;
-  border-top-color: #07d;
+  border: 3px solid #FF7E81;
+  border-top-color: #FF7E81;
   animation: react-overlay-loader-spinner 0.8s linear infinite;
 }
